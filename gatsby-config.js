@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: 'FROG Blog',
-    author: '',
+    author: 'FROG Team',
     description: 'News about FROG',
-    siteUrl: '',
+    siteUrl: 'https://github.com/chili-epfl/FROG',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/frog-blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
