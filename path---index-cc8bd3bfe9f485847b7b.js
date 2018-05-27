@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{507:function(e,t){e.exports={data:{site:{siteMetadata:{title:"FROG Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Overview FROG’s editor aims to enable a teacher or researcher to configure a complex learning flow, including multiple activities, on…",fields:{slug:"/visual-makeover/"},frontmatter:{date:"27 May, 2018",title:"FROG gets a visual makeover!"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-cc8bd3bfe9f485847b7b.js.map
